@@ -25,7 +25,7 @@ Customers pair drinks with drinks, not bakery
 Low‑volume items (Coffee Beans, Branded) still drive value
 Hell’s Kitchen = consistency, Lower Manhattan = high spend, Astoria = evening strength
 
-Tech Stack
+Tech Stack :
 Python
 Pandas
 NumPy
